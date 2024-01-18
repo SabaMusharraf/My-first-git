@@ -1,0 +1,57 @@
+td { 
+    width: 4px;
+    height: 4px;
+    text-align: center;
+}
+.number{
+    line-height: 0%;
+    font-size: 10px;
+    font-weight: bold;
+
+}
+.name{
+    line-height: 0px;
+    font-weight: bold;
+}
+.fullname{
+    line-height: 0px;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.colorred{
+    background-color: rgb(250, 64, 51);
+
+    }
+    .colorgreen{
+        background-color: rgb(91, 230, 75);
+    }
+    .coloryellow{
+        background-color: rgb(245, 245, 66);
+
+    }
+    .colorpink{
+        background-color:rgb(252, 76, 143);
+    }
+    .colorpurple{
+        background-color: rgb(159, 68, 245);
+    }
+    .colorskyblue{
+        background-color: rgb(42, 184, 240);
+       
+    }
+    .colornavyblue{
+        background-color: rgb(62, 62, 146);
+    }
+    .colorgreenl{
+        background-color: rgb(97, 172, 97);
+    }
+.colorgrey{
+    background-color: rgb(135, 135, 138);
+}
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 50px;
+    background-color: azure;
+}
