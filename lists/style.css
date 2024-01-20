@@ -1,0 +1,21 @@
+
+body {
+    margin-left: 50px;
+}
+
+
+h1 {
+    color: darkslategray;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+ol{
+    font-size: 30px;
+
+}
+
+li {
+    list-style-type: lower-roman;
+    color: olive;
+}
